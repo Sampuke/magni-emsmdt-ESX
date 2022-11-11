@@ -6,3 +6,4 @@ Config.Webhook = "" -- Discord webhook name to load log
 Config.Botname = "magni-emsmdt" -- Discord bot name
 Config.Commandname = "emsmdt" -- Command name
 Config.Jobname = 'ambulance' -- Job name
+Config.ESX = true
